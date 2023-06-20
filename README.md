@@ -9,13 +9,17 @@ ChatGPT is an open source chatbot application that uses the GPT-3 natural langua
 * Can be used for customer service, entertainment, or other applications 
 * Open source and free to use
 
-*  ## Installation 
+## Installation Instructions
 
- To install ChatGPT, simply clone the repository from GitHub:
+ 1. Clone the repository `git clone https://github.com/SagidAnowar/ChatGPT-Messenger-App.git`  
 
- ```git clone https://github.com/chatgpt/chatgpt](https://github.com/SagidAnowar/ChatGPT-Messenger-App.git```
+ 2. Install dependencies `npm install`  
 
- Then follow the instructions in the README file for setting up and running the application.
+ 3. Start the server `npm run dev`  
+
+ 4. Visit http://localhost:3000 in your browser to view the application
+
+OR VISIT: https://steady-druid-37f7e6.netlify.app
 
  ## Usage
 
