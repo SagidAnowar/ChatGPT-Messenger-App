@@ -4,8 +4,8 @@ ChatGPT is an open source chatbot application that uses the GPT-3 natural langua
 
 ## Features 
 * Generates conversations using the GPT-3 natural language processing model 
-* Supports multiple languages 
-* Easy to use and customize 
+* Elegant user interface that resembles the ChatGPT app 
+* Communication with advanced GPT 3 model AI 
 * Can be used for customer service, entertainment, or other applications 
 * Open source and free to use
 
@@ -19,7 +19,7 @@ ChatGPT is an open source chatbot application that uses the GPT-3 natural langua
 
  ## Usage
 
-ChatGPT Messenger is a chatbot that uses natural language processing to generate responses to user input. It is powered by the ChatGPT API, which uses a deep learning model to generate human-like conversations. 
+ChatGPT Messenger is a chatbot that uses natural language processing to generate responses to user input. It is powered by the ChatGPT API, which uses a deep learning model to generate human-like conversations. This allows us to ask AI for help.
 
 The code imports two SVG images for the bot and user avatars, and then sets up an event listener for when the user submits their message. When the message is submitted, it is sent to the ChatGPT API and a response is generated. The response is then displayed in the chat window with an animation that simulates typing out each character of the response. 
 
